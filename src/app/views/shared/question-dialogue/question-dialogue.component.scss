@@ -1,0 +1,36 @@
+.option-btn:hover {
+  background-color: gray;
+  color: #e4fff4;
+  border-color: gray;
+  border: none;
+}
+
+.option-btn:active,
+.option-btn:focus {
+  background-color: #01b2ff;
+  color: white;
+  border: none;
+}
+
+.option-btn {
+  background-color: rgba(179, 173, 173, 0.715);
+  color: white;
+  border: none;
+}
+
+.answer-div {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.submit-btn {
+  background: #01b2ff;
+  color: white;
+}
+
+.submit-btn:hover {
+  background: #01b2ffb3;
+}

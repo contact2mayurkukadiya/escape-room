@@ -1,0 +1,21 @@
+.spider-img {
+  position: absolute;
+  user-select: none;
+  -webkit-user-drag: none;
+}
+
+.boxes {
+  position: absolute;
+}
+
+.tile {
+  width: 40px;
+  height: 16px;
+  text-align: center;
+  background: steelblue;
+  margin: 1px;
+}
+
+.img-span {
+  cursor: pointer;
+}

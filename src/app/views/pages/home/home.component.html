@@ -1,0 +1,8 @@
+<div class="container" style="height: 100vh;">
+  <ng-container *ngFor="let item of spiderArray">
+    <span (click)="item.role == 'parent' && openDialog(item);" class="img-span">
+      <img class="spider-img" id="spider_img" src="assets/images/spider.gif" [style.width.px]="tile_size"
+        [ngStyle]="{'top': item.top, 'left': item.left}">
+    </span>
+  </ng-container>
+</div>

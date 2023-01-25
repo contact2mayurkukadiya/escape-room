@@ -1,0 +1,77 @@
+[
+  {
+    "group_id": 1,
+    "role": "parent",
+    "qsn_arr": {
+      "question": "What is 2 + 2?",
+      "ans_arr": [2, 4, 6, 8],
+      "correct_ans": 4
+    }
+  },
+  {
+    "group_id": 2,
+    "role": "parent",
+    "qsn_arr": {
+      "question": "What is 10 - 6?",
+      "ans_arr": [2, 4, 6, 8],
+      "correct_ans": 4
+    }
+  },
+  {
+    "group_id": 3,
+    "role": "parent",
+    "qsn_arr": {
+      "question": "What is 6 + 2?",
+      "ans_arr": [2, 4, 6, 8],
+      "correct_ans": 8
+    }
+  },
+  {
+    "group_id": 1,
+    "role": "child"
+  },
+  {
+    "group_id": 1,
+    "role": "child"
+  },
+  {
+    "group_id": 1,
+    "role": "child"
+  },
+  {
+    "group_id": 1,
+    "role": "child"
+  },
+  {
+    "group_id": 2,
+    "role": "child"
+  },
+  {
+    "group_id": 2,
+    "role": "child"
+  },
+  {
+    "group_id": 2,
+    "role": "child"
+  },
+  {
+    "group_id": 3,
+    "role": "child"
+  },
+  {
+    "group_id": 3,
+    "role": "child"
+  },
+  {
+    "group_id": 3,
+    "role": "child"
+  },
+  {
+    "group_id": 3,
+    "role": "child"
+  },
+  {
+    "group_id": 3,
+    "role": "child"
+  }
+]
