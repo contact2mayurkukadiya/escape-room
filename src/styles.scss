@@ -1,47 +1,53 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* You can add global styles to this file, and also import other style files */
+
 html,
 body {
-  height: 100%;
-  margin: 0;
-  font-family: Roboto, "Helvetica Neue", sans-serif;
-  background: url(/assets/images/home-bg.jpg) no-repeat center center fixed;
-  background-position: center center;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: cover;
+    height: 100%;
+    margin: 0;
+    font-family: Roboto, "Helvetica Neue", sans-serif;
+    background: url('/home-bg.jpg') no-repeat center center fixed;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
 }
 
 .swl-error {
-  background-color: #bf251a !important;
+    background-color: #bf251a !important;
 }
 
 .swl-error:focus {
-  box-shadow: 0 0 0 3px rgb(224 102 102 / 50%) !important;
+    box-shadow: 0 0 0 3px rgb(224 102 102 / 50%) !important;
 }
 
 .swl-error:active {
-  box-shadow: #f44336ad !important;
+    box-shadow: #f44336ad !important;
 }
 
 .swl-notify {
-  background-color: rgb(28, 90, 113) !important;
+    background-color: rgb(28, 90, 113) !important;
 }
 
 .swl-notify:focus {
-  box-shadow: 0 0 0 3px rgb(122 102 102 / 50%) !important;
+    box-shadow: 0 0 0 3px rgb(122 102 102 / 50%) !important;
 }
 
 .swl-notify:active {
-  box-shadow: rgb(122 102 102 / 50%) !important;
+    box-shadow: rgb(122 102 102 / 50%) !important;
 }
 
 .swl-success {
-  background-color: #15a038 !important;
+    background-color: #15a038 !important;
 }
 
 .swl-success:focus {
-  box-shadow: 0 0 0 3px rgb(51 161 24 / 50%) !important;
+    box-shadow: 0 0 0 3px rgb(51 161 24 / 50%) !important;
 }
 
 .swl-success:active {
-  box-shadow: rgb(51 161 24 / 50%) !important;
+    box-shadow: rgb(51 161 24 / 50%) !important;
 }

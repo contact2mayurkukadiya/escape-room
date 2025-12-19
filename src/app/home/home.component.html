@@ -1,0 +1,6 @@
+<div class="ctr" style="height: 100vh;">
+    <ng-container *ngFor="let item of spiderArray">
+        <img class="spider-img" id="spider_img" src="spider.gif" [style.width.px]="tile_size"
+            [ngStyle]="{'top': item.top, 'left': item.left}" (click)="item.role == 'parent' && openDialog(item);">
+    </ng-container>
+</div>
