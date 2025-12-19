@@ -1,6 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { CommonModule } from '@angular/common';
-import { dataJson } from '../data';
+import { dataJson, questions } from '../data';
 
 import {
     instructions,
@@ -46,11 +46,12 @@ export class HomeComponent implements OnInit {
 
     openDialog(item: any) {
         this.selected_qsn_id = item.id;
+        const randomQuestion = questions[Math.floor(Math.random() * questions.length)];
         Swal.fire({
-            title: item.qsn_arr.question,
+            title: randomQuestion.question,
             input: 'select',
-            inputOptions: item.qsn_arr.ans_arr.reduce((result: any, option: any) => {
-                result[option] = option; // {2: 2, 4: 4, 6: 6, 8: 8}
+            inputOptions: randomQuestion.ans_arr.reduce((result: any, option: any) => {
+                result[option] = option;
                 return result;
             }, {}),
             inputPlaceholder: 'Select your answer',
@@ -66,8 +67,10 @@ export class HomeComponent implements OnInit {
             }
         }).then((result) => {
             if (result.isConfirmed) {
-                const selectedAnswer = parseInt(result.value);
-                const isCorrect = selectedAnswer === item.qsn_arr.correct_ans;
+                const selectedAnswer = result.value;
+                console.log('Selected Answer:', selectedAnswer);
+                console.log('correct Answer:', randomQuestion.correct_ans);
+                const isCorrect = selectedAnswer == randomQuestion.correct_ans;
 
                 if (isCorrect) {
                     this.spiderArray = this.spiderArray.filter((element: any) => {

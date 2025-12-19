@@ -1,0 +1,582 @@
+[
+    {
+        "question": "What is 1 + 1?",
+        "ans_arr": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "correct_ans": 2
+    },
+    {
+        "question": "What color is a strawberry?",
+        "ans_arr": [
+            "Blue",
+            "Green",
+            "Red",
+            "Yellow"
+        ],
+        "correct_ans": "Red"
+    },
+    {
+        "question": "Which animal is known for having a very long neck?",
+        "ans_arr": [
+            "Hippo",
+            "Giraffe",
+            "Lion",
+            "Zebra"
+        ],
+        "correct_ans": "Giraffe"
+    },
+    {
+        "question": "Which of these is the opposite of 'Up'?",
+        "ans_arr": [
+            "Left",
+            "Right",
+            "Down",
+            "High"
+        ],
+        "correct_ans": "Down"
+    },
+    {
+        "question": "What is 10 - 5?",
+        "ans_arr": [
+            2,
+            5,
+            8,
+            10
+        ],
+        "correct_ans": 5
+    },
+    {
+        "question": "Which animal lives in the ocean?",
+        "ans_arr": [
+            "Cow",
+            "Chicken",
+            "Whale",
+            "Monkey"
+        ],
+        "correct_ans": "Whale"
+    },
+    {
+        "question": "What shape has three sides?",
+        "ans_arr": [
+            "Square",
+            "Circle",
+            "Triangle",
+            "Rectangle"
+        ],
+        "correct_ans": "Triangle"
+    },
+    {
+        "question": "What do you use to brush your teeth?",
+        "ans_arr": [
+            "Hairbrush",
+            "Toothbrush",
+            "Spoon",
+            "Pencil"
+        ],
+        "correct_ans": "Toothbrush"
+    },
+    {
+        "question": "What is 2 + 3?",
+        "ans_arr": [
+            4,
+            5,
+            6,
+            7
+        ],
+        "correct_ans": 5
+    },
+    {
+        "question": "Which fruit is yellow and long?",
+        "ans_arr": [
+            "Apple",
+            "Banana",
+            "Grape",
+            "Orange"
+        ],
+        "correct_ans": "Banana"
+    },
+    {
+        "question": "How many legs does a spider have?",
+        "ans_arr": [
+            4,
+            6,
+            8,
+            10
+        ],
+        "correct_ans": 8
+    },
+    {
+        "question": "Which season comes after Winter?",
+        "ans_arr": [
+            "Summer",
+            "Fall",
+            "Spring",
+            "Autumn"
+        ],
+        "correct_ans": "Spring"
+    },
+    {
+        "question": "What is 4 + 4?",
+        "ans_arr": [
+            6,
+            7,
+            8,
+            9
+        ],
+        "correct_ans": 8
+    },
+    {
+        "question": "Which of these is a vegetable?",
+        "ans_arr": [
+            "Carrot",
+            "Donut",
+            "Pizza",
+            "Candy"
+        ],
+        "correct_ans": "Carrot"
+    },
+    {
+        "question": "Which animal says 'Woof'?",
+        "ans_arr": [
+            "Cat",
+            "Bird",
+            "Dog",
+            "Sheep"
+        ],
+        "correct_ans": "Dog"
+    },
+    {
+        "question": "What do you wear on your feet when it is cold?",
+        "ans_arr": [
+            "Gloves",
+            "Hat",
+            "Socks",
+            "Glasses"
+        ],
+        "correct_ans": "Socks"
+    },
+    {
+        "question": "What is 9 - 3?",
+        "ans_arr": [
+            3,
+            6,
+            9,
+            12
+        ],
+        "correct_ans": 6
+    },
+    {
+        "question": "Which is bigger?",
+        "ans_arr": [
+            "Ant",
+            "Mouse",
+            "Cat",
+            "Elephant"
+        ],
+        "correct_ans": "Elephant"
+    },
+    {
+        "question": "What color are most leaves in summer?",
+        "ans_arr": [
+            "Pink",
+            "Green",
+            "Black",
+            "Purple"
+        ],
+        "correct_ans": "Green"
+    },
+    {
+        "question": "What is 5 + 2?",
+        "ans_arr": [
+            5,
+            6,
+            7,
+            8
+        ],
+        "correct_ans": 7
+    },
+    {
+        "question": "What do you use to stay dry in the rain?",
+        "ans_arr": [
+            "Sunglasses",
+            "Umbrella",
+            "Backpack",
+            "Watch"
+        ],
+        "correct_ans": "Umbrella"
+    },
+    {
+        "question": "Which animal is very slow?",
+        "ans_arr": [
+            "Cheetah",
+            "Turtle",
+            "Rabbit",
+            "Horse"
+        ],
+        "correct_ans": "Turtle"
+    },
+    {
+        "question": "What is the name of the star that gives us light during the day?",
+        "ans_arr": [
+            "Moon",
+            "Mars",
+            "Sun",
+            "Venus"
+        ],
+        "correct_ans": "Sun"
+    },
+    {
+        "question": "What is 7 - 0?",
+        "ans_arr": [
+            0,
+            1,
+            7,
+            14
+        ],
+        "correct_ans": 7
+    },
+    {
+        "question": "Which of these is a shape with four equal sides?",
+        "ans_arr": [
+            "Triangle",
+            "Square",
+            "Circle",
+            "Star"
+        ],
+        "correct_ans": "Square"
+    },
+    {
+        "question": "What do you call a baby dog?",
+        "ans_arr": [
+            "Kitten",
+            "Chick",
+            "Puppy",
+            "Cub"
+        ],
+        "correct_ans": "Puppy"
+    },
+    {
+        "question": "Which of these is a transport that flies?",
+        "ans_arr": [
+            "Car",
+            "Boat",
+            "Airplane",
+            "Bicycle"
+        ],
+        "correct_ans": "Airplane"
+    },
+    {
+        "question": "What is 3 + 3?",
+        "ans_arr": [
+            3,
+            6,
+            9,
+            12
+        ],
+        "correct_ans": 6
+    },
+    {
+        "question": "What do you use to smell things?",
+        "ans_arr": [
+            "Eyes",
+            "Ears",
+            "Nose",
+            "Mouth"
+        ],
+        "correct_ans": "Nose"
+    },
+    {
+        "question": "Which planet do we live on?",
+        "ans_arr": [
+            "Mars",
+            "Jupiter",
+            "Earth",
+            "Saturn"
+        ],
+        "correct_ans": "Earth"
+    },
+    {
+        "question": "What color is the sky on a clear day?",
+        "ans_arr": [
+            "Red",
+            "Green",
+            "Blue",
+            "Yellow"
+        ],
+        "correct_ans": "Blue"
+    },
+    {
+        "question": "What is 8 + 1?",
+        "ans_arr": [
+            7,
+            8,
+            9,
+            10
+        ],
+        "correct_ans": 9
+    },
+    {
+        "question": "What do you call a baby cat?",
+        "ans_arr": [
+            "Puppy",
+            "Kitten",
+            "Calf",
+            "Foal"
+        ],
+        "correct_ans": "Kitten"
+    },
+    {
+        "question": "Which of these is sweet?",
+        "ans_arr": [
+            "Lemon",
+            "Salt",
+            "Sugar",
+            "Vinegar"
+        ],
+        "correct_ans": "Sugar"
+    },
+    {
+        "question": "What is 6 - 4?",
+        "ans_arr": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "correct_ans": 2
+    },
+    {
+        "question": "What do you wear to bed?",
+        "ans_arr": [
+            "Jeans",
+            "Swimsuit",
+            "Pajamas",
+            "Coat"
+        ],
+        "correct_ans": "Pajamas"
+    },
+    {
+        "question": "Which animal has a trunk?",
+        "ans_arr": [
+            "Lion",
+            "Monkey",
+            "Elephant",
+            "Zebra"
+        ],
+        "correct_ans": "Elephant"
+    },
+    {
+        "question": "What is 0 + 5?",
+        "ans_arr": [
+            0,
+            5,
+            10,
+            15
+        ],
+        "correct_ans": 5
+    },
+    {
+        "question": "Which of these is a circle shape?",
+        "ans_arr": [
+            "A Book",
+            "A Door",
+            "A Pizza",
+            "A Ruler"
+        ],
+        "correct_ans": "A Pizza"
+    },
+    {
+        "question": "What is the opposite of 'Hot'?",
+        "ans_arr": [
+            "Warm",
+            "Cold",
+            "Sunny",
+            "Wet"
+        ],
+        "correct_ans": "Cold"
+    },
+    {
+        "question": "Which animal hops and loves carrots?",
+        "ans_arr": [
+            "Tiger",
+            "Rabbit",
+            "Bear",
+            "Wolf"
+        ],
+        "correct_ans": "Rabbit"
+    },
+    {
+        "question": "What is 4 + 2?",
+        "ans_arr": [
+            4,
+            5,
+            6,
+            8
+        ],
+        "correct_ans": 6
+    },
+    {
+        "question": "Which one is a bird?",
+        "ans_arr": [
+            "Shark",
+            "Owl",
+            "Snake",
+            "Lizard"
+        ],
+        "correct_ans": "Owl"
+    },
+    {
+        "question": "What is the name of the thing we sleep on?",
+        "ans_arr": [
+            "Table",
+            "Bed",
+            "Chair",
+            "Shelf"
+        ],
+        "correct_ans": "Bed"
+    },
+    {
+        "question": "What is 10 - 2?",
+        "ans_arr": [
+            5,
+            6,
+            7,
+            8
+        ],
+        "correct_ans": 8
+    },
+    {
+        "question": "Which of these do you find at a library?",
+        "ans_arr": [
+            "Toys",
+            "Books",
+            "Shoes",
+            "Food"
+        ],
+        "correct_ans": "Books"
+    },
+    {
+        "question": "What is the color of an orange?",
+        "ans_arr": [
+            "Purple",
+            "Orange",
+            "Pink",
+            "Brown"
+        ],
+        "correct_ans": "Orange"
+    },
+    {
+        "question": "What do you use to see things?",
+        "ans_arr": [
+            "Hands",
+            "Ears",
+            "Eyes",
+            "Feet"
+        ],
+        "correct_ans": "Eyes"
+    },
+    {
+        "question": "What is 1 + 4?",
+        "ans_arr": [
+            3,
+            4,
+            5,
+            6
+        ],
+        "correct_ans": 5
+    },
+    {
+        "question": "Which animal makes honey?",
+        "ans_arr": [
+            "Ant",
+            "Bee",
+            "Fly",
+            "Spider"
+        ],
+        "correct_ans": "Bee"
+    },
+    {
+        "question": "What is the opposite of 'Happy'?",
+        "ans_arr": [
+            "Sad",
+            "Glad",
+            "Funny",
+            "Sleepy"
+        ],
+        "correct_ans": "Sad"
+    },
+    {
+        "question": "What do you use to cut paper?",
+        "ans_arr": [
+            "Glue",
+            "Tape",
+            "Scissors",
+            "Crayons"
+        ],
+        "correct_ans": "Scissors"
+    },
+    {
+        "question": "What is 3 + 2?",
+        "ans_arr": [
+            1,
+            3,
+            5,
+            7
+        ],
+        "correct_ans": 5
+    },
+    {
+        "question": "Which of these is used to tell time?",
+        "ans_arr": [
+            "A Clock",
+            "A Mirror",
+            "A Lamp",
+            "A Rug"
+        ],
+        "correct_ans": "A Clock"
+    },
+    {
+        "question": "Where do you go to learn and see your teacher?",
+        "ans_arr": [
+            "The Park",
+            "The Beach",
+            "School",
+            "The Zoo"
+        ],
+        "correct_ans": "School"
+    },
+    {
+        "question": "What is 5 - 1?",
+        "ans_arr": [
+            3,
+            4,
+            5,
+            6
+        ],
+        "correct_ans": 4
+    },
+    {
+        "question": "What do we call the hair on a lion's neck?",
+        "ans_arr": [
+            "Beard",
+            "Mane",
+            "Tail",
+            "Wings"
+        ],
+        "correct_ans": "Mane"
+    },
+    {
+        "question": "What color is a cloud usually?",
+        "ans_arr": [
+            "Green",
+            "Yellow",
+            "White",
+            "Red"
+        ],
+        "correct_ans": "White"
+    }
+]
