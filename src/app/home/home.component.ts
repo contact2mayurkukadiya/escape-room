@@ -98,7 +98,6 @@ export class HomeComponent implements OnInit {
             if (result.isConfirmed) {
                 if (reinitialize) {
                     this.spiderArray = JSON.parse(JSON.stringify(dataJson as any));
-                    console.log('reinitialize', this.spiderArray);
                     setTimeout(() => this.initializeSpider(), 100);
                 }
             }
